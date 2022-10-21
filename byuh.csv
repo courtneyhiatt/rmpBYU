@@ -1,0 +1,393 @@
+tDept,tSid,institution_name,tFname,tMiddlename,tLname,tid,tNumRatings,rating_class,contentType,categoryType,overall_rating
+Physical Education,136,Brigham Young University - Hawaii,Brandyn,,Akana,904179,9,good,TEACHER,PROFESSOR,4.8
+Health Science,136,Brigham Young University - Hawaii,Charlene,Dawn,Akana,2321608,3,good,TEACHER,PROFESSOR,3.7
+Political Science,136,Brigham Young University - Hawaii,Christina,,Akanoa,1236081,10,good,TEACHER,PROFESSOR,3.9
+Mathematics,136,Brigham Young University - Hawaii,Manny,,Alboroto,1545107,1,good,TEACHER,PROFESSOR,5.0
+Fine Arts,136,Brigham Young University - Hawaii,Mata'Umu,,Alisa,453614,7,good,TEACHER,PROFESSOR,4.4
+History,136,Brigham Young University - Hawaii,Michael,,Allen,484627,4,good,TEACHER,PROFESSOR,3.9
+Business,136,Brigham Young University - Hawaii,Greig,,Allen,606314,6,good,TEACHER,PROFESSOR,3.6
+English,136,Brigham Young University - Hawaii,Randal,,Allred,453295,13,good,TEACHER,PROFESSOR,4.2
+Communication,136,Brigham Young University - Hawaii,Mason,,Allred,2439523,12,good,TEACHER,PROFESSOR,4.5
+English,136,Brigham Young University - Hawaii,Neil,,Anderson,2315072,5,good,TEACHER,PROFESSOR,3.8
+Business,136,Brigham Young University - Hawaii,Melissa,,Arias,2052453,2,poor,TEACHER,PROFESSOR,1.5
+Religion,136,Brigham Young University - Hawaii,Casey,,Ashcroft,2114823,3,good,TEACHER,PROFESSOR,4.7
+History,136,Brigham Young University - Hawaii,Savani,,Aupiu,1884184,27,poor,TEACHER,PROFESSOR,2.2
+Agriculture,136,Brigham Young University - Hawaii,Keoki,,Baclayon,2236924,2,good,TEACHER,PROFESSOR,5.0
+Biology,136,Brigham Young University - Hawaii,Elizabeth,,Bailey,2174425,3,good,TEACHER,PROFESSOR,5.0
+Education,136,Brigham Young University - Hawaii,John,,Bailey,1432446,22,good,TEACHER,PROFESSOR,3.9
+Business,136,Brigham Young University - Hawaii,Cody,,Baldwin,2231240,8,good,TEACHER,PROFESSOR,4.7
+Religion,136,Brigham Young University - Hawaii,Glen,,Barksdale,1370817,4,good,TEACHER,PROFESSOR,4.9
+Science,136,Brigham Young University - Hawaii,Marshall,,Bartlett,819119,7,average,TEACHER,PROFESSOR,2.9
+Mathematics,136,Brigham Young University - Hawaii,Susan,,Barton,767003,40,average,TEACHER,PROFESSOR,2.5
+Psychology,136,Brigham Young University - Hawaii,Zachary,,Beckstead,2171277,16,good,TEACHER,PROFESSOR,4.5
+Physical Education,136,Brigham Young University - Hawaii,Ramona,R K,Beltran,2127221,4,good,TEACHER,PROFESSOR,5.0
+Education,136,Brigham Young University - Hawaii,Carol,,Bennett,2488702,1,good,TEACHER,PROFESSOR,4.0
+Social Work,136,Brigham Young University - Hawaii,Nicole,,Bennett,2722182,4,good,TEACHER,PROFESSOR,5.0
+Film,136,Brigham Young University - Hawaii,Yifen,,Beus,810418,12,good,TEACHER,PROFESSOR,3.5
+Humanities,136,Brigham Young University - Hawaii,David,,Beus,1706969,9,good,TEACHER,PROFESSOR,4.0
+Education,136,Brigham Young University - Hawaii,Reidy,,Beverly,2606894,2,average,TEACHER,PROFESSOR,2.5
+Religion,136,Brigham Young University - Hawaii,Susan Easton,,Black,700312,1,good,TEACHER,PROFESSOR,4.5
+English,136,Brigham Young University - Hawaii,Jill,,Bleazard,2480549,1,good,TEACHER,PROFESSOR,4.0
+Political Science,136,Brigham Young University - Hawaii,Randall,,Blimes,1520031,12,good,TEACHER,PROFESSOR,3.8
+Communication,136,Brigham Young University - Hawaii,Michelle,,Blimes,2265740,7,good,TEACHER,PROFESSOR,4.0
+Biology,136,Brigham Young University - Hawaii,Gary,,Booth,673819,5,good,TEACHER,PROFESSOR,4.4
+Theater,136,Brigham Young University - Hawaii,Gailyn,,Bopp,2651230,2,average,TEACHER,PROFESSOR,3.0
+Political Science,136,Brigham Young University - Hawaii,Donna Lee,,Bowen,720669,4,good,TEACHER,PROFESSOR,4.5
+Religion,136,Brigham Young University - Hawaii,Suzanne,,Bowen,2608249,2,good,TEACHER,PROFESSOR,5.0
+Religion,136,Brigham Young University - Hawaii,Matthew,,Bowen ,1930404,22,good,TEACHER,PROFESSOR,4.2
+English,136,Brigham Young University - Hawaii,Emily,,Bradshaw,1469028,14,good,TEACHER,PROFESSOR,4.3
+Music,136,Brigham Young University - Hawaii,Daniel,,Bradshaw,1473853,12,good,TEACHER,PROFESSOR,4.8
+Theater,136,Brigham Young University - Hawaii,Nestor,,Bravo-Goldsmith,679457,3,good,TEACHER,PROFESSOR,3.5
+Religion,136,Brigham Young University - Hawaii,Doug,,Brinley,1516172,3,good,TEACHER,PROFESSOR,3.7
+Sociology,136,Brigham Young University - Hawaii,Ralph,,Brown,712161,3,good,TEACHER,PROFESSOR,4.2
+Science,136,Brigham Young University - Hawaii,Philip,,Bruner,836294,22,poor,TEACHER,PROFESSOR,2.4
+Biology,136,Brigham Young University - Hawaii,Phillip,,Bruner,1989813,1,average,TEACHER,PROFESSOR,3.0
+Biology,136,Brigham Young University - Hawaii,Phillip,,Brunner,1983221,1,poor,TEACHER,PROFESSOR,1.5
+Biology,136,Brigham Young University - Hawaii,David,,Bybee,1140130,20,good,TEACHER,PROFESSOR,4.2
+Biology,136,Brigham Young University - Hawaii,David,,Bybee,1140130,20,good,TEACHER,PROFESSOR,4.2
+Languages,136,Brigham Young University - Hawaii,Juanita,,Bybee,2104115,3,poor,TEACHER,PROFESSOR,2.3
+Hospitality,136,Brigham Young University - Hawaii,Jeff,,Caneen,837958,10,good,TEACHER,PROFESSOR,4.0
+Chemistry,136,Brigham Young University - Hawaii,Mark,,Cannon,1269273,24,good,TEACHER,PROFESSOR,4.2
+Mathematics,136,Brigham Young University - Hawaii,Russel,,Carlson,1473898,17,average,TEACHER,PROFESSOR,3.0
+Religion,136,Brigham Young University - Hawaii,Leonard,,Carter,1991239,1,good,TEACHER,PROFESSOR,4.0
+Business,136,Brigham Young University - Hawaii,Kevin,,Castle,1628830,9,good,TEACHER,PROFESSOR,4.5
+English,136,Brigham Young University - Hawaii,Ariel,,Chaffin,2397938,2,good,TEACHER,PROFESSOR,4.5
+Finance,136,Brigham Young University - Hawaii,Josiah,,Chan,2186729,1,poor,TEACHER,PROFESSOR,1.0
+Music,136,Brigham Young University - Hawaii,Lloyd,,Chandler,2737874,2,good,TEACHER,PROFESSOR,3.5
+Health Science,136,Brigham Young University - Hawaii,Benjamin,,Chase,2586355,162,good,TEACHER,PROFESSOR,4.3
+International Studies,136,Brigham Young University - Hawaii,Chiung Hwan,,Chen,1241274,14,average,TEACHER,PROFESSOR,2.6
+Communication,136,Brigham Young University - Hawaii,Chiung,,Chen,2203949,24,poor,TEACHER,PROFESSOR,2.0
+Accounting,136,Brigham Young University - Hawaii,Jennifer,,Chen,896278,19,average,TEACHER,PROFESSOR,2.6
+Computer Science,136,Brigham Young University - Hawaii,Vasu,Nephi,Chetty,2186108,1,good,TEACHER,PROFESSOR,5.0
+Physical Education,136,Brigham Young University - Hawaii,Martha,,Christensen,1870795,1,good,TEACHER,PROFESSOR,5.0
+Religion,136,Brigham Young University - Hawaii,Jess,,Christensen,2043081,2,good,TEACHER,PROFESSOR,3.5
+English,136,Brigham Young University - Hawaii,Perry,,Christensen,904189,14,good,TEACHER,PROFESSOR,4.5
+Religion,136,Brigham Young University - Hawaii,Richard,,Christensen,2689851,1,good,TEACHER,PROFESSOR,5.0
+Hospitality,136,Brigham Young University - Hawaii,Jeff,,Christensen,2524266,27,good,TEACHER,PROFESSOR,4.4
+English,136,Brigham Young University - Hawaii,Anna Marie,,Christiansen,964360,26,good,TEACHER,PROFESSOR,4.3
+Art History,136,Brigham Young University - Hawaii,Olivia,,Chrisy,1265241,3,good,TEACHER,PROFESSOR,3.8
+Religion,136,Brigham Young University - Hawaii,Elder,,Cochran,1775192,2,good,TEACHER,PROFESSOR,5.0
+Sociology,136,Brigham Young University - Hawaii,Kelly,,Coleman,2229873,1,good,TEACHER,PROFESSOR,5.0
+Information Science,136,Brigham Young University - Hawaii,Don,,Colton,948714,11,good,TEACHER,PROFESSOR,3.6
+Communication,136,Brigham Young University - Hawaii,Chad,,Compton,410282,16,good,TEACHER,PROFESSOR,3.6
+History,136,Brigham Young University - Hawaii,Cynthia,,Compton,1140131,21,poor,TEACHER,PROFESSOR,2.3
+Religion,136,Brigham Young University - Hawaii,David,,Cook,1453602,2,good,TEACHER,PROFESSOR,4.0
+Chemistry,136,Brigham Young University - Hawaii,Richard,,Cornwall,2305108,16,average,TEACHER,PROFESSOR,3.3
+Business,136,Brigham Young University - Hawaii,Cary,,Countryman,2106888,5,poor,TEACHER,PROFESSOR,2.0
+Hospitality,136,Brigham Young University - Hawaii,Cary,,Countryman,2155159,4,good,TEACHER,PROFESSOR,3.8
+Languages,136,Brigham Young University - Hawaii,Tom,,Court,2661552,1,good,TEACHER,PROFESSOR,5.0
+History,136,Brigham Young University - Hawaii,Kanekoa,,Crabbe,1798533,15,good,TEACHER,PROFESSOR,4.3
+Religion,136,Brigham Young University - Hawaii,Stan,,Crippen,2722663,1,good,TEACHER,PROFESSOR,5.0
+Information Systems,136,Brigham Young University - Hawaii,Aaron,,Curtis,1579680,6,good,TEACHER,PROFESSOR,3.6
+English,136,Brigham Young University - Hawaii,Jacob,,Cutler,2165819,2,good,TEACHER,PROFESSOR,5.0
+History,136,Brigham Young University - Hawaii,Brian,,Dawson,2133305,13,poor,TEACHER,PROFESSOR,2.0
+Biology,136,Brigham Young University - Hawaii,Randy,,Day,1442402,13,good,TEACHER,PROFESSOR,4.0
+English,136,Brigham Young University - Hawaii,Becky,,De Martini,2657233,1,good,TEACHER,PROFESSOR,5.0
+Chemistry,136,Brigham Young University - Hawaii,Daniel,,DeMartini,2406103,7,good,TEACHER,PROFESSOR,4.6
+Mathematics,136,Brigham Young University - Hawaii,Owen,E,Denison,1949285,4,good,TEACHER,PROFESSOR,4.2
+Theater,136,Brigham Young University - Hawaii,Aaron,,Densley,2287136,3,good,TEACHER,PROFESSOR,5.0
+Theater,136,Brigham Young University - Hawaii,Kristl,,Densley,2290429,7,good,TEACHER,PROFESSOR,5.0
+Social Science,136,Brigham Young University - Hawaii,Thomas,,Draper,728669,2,average,TEACHER,PROFESSOR,3.2
+Religion,136,Brigham Young University - Hawaii,Richard,,Draper,1488805,3,good,TEACHER,PROFESSOR,4.7
+Computer Science,136,Brigham Young University - Hawaii,Geoffrey,,Draper,2514529,1,poor,TEACHER,PROFESSOR,1.0
+Computer Science,136,Brigham Young University - Hawaii,Geoff,,Draper,1611875,13,good,TEACHER,PROFESSOR,4.4
+Music,136,Brigham Young University - Hawaii,Jennifer,,Duerden,2107014,3,good,TEACHER,PROFESSOR,4.7
+Music,136,Brigham Young University - Hawaii,Darren,,Duerden,1903540,4,good,TEACHER,PROFESSOR,3.9
+Business,136,Brigham Young University - Hawaii,Wesley,,Duke,2689852,1,good,TEACHER,PROFESSOR,5.0
+Business,136,Brigham Young University - Hawaii,Jason Scott,,Earl,1832545,39,good,TEACHER,PROFESSOR,4.5
+Psychology,136,Brigham Young University - Hawaii,Nancy,,Eastwood,2725346,2,good,TEACHER,PROFESSOR,4.0
+Physical Education,136,Brigham Young University - Hawaii,Norman,,Eburne,1195236,4,good,TEACHER,PROFESSOR,4.9
+Music,136,Brigham Young University - Hawaii,Daniel,,Edwards,2662635,1,good,TEACHER,PROFESSOR,4.0
+Mathematics,136,Brigham Young University - Hawaii,Nathan,,Ellis,1775636,6,good,TEACHER,PROFESSOR,4.9
+English,136,Brigham Young University - Hawaii,Juan,,Escalante,2628399,2,good,TEACHER,PROFESSOR,5.0
+Religion,136,Brigham Young University - Hawaii,Brother,,Esplin,733453,1,good,TEACHER,PROFESSOR,5.0
+Religion,136,Brigham Young University - Hawaii,Brent,,Esplin,2325843,2,good,TEACHER,PROFESSOR,5.0
+History,136,Brigham Young University - Hawaii,Sister,,Fale,835349,3,poor,TEACHER,PROFESSOR,2.2
+Ethnic Studies,136,Brigham Young University - Hawaii,Zoia,,Falevai,2187534,3,good,TEACHER,PROFESSOR,4.0
+Physical Education,136,Brigham Young University - Hawaii,Janelle,,Farley,959436,5,average,TEACHER,PROFESSOR,3.2
+International Studies,136,Brigham Young University - Hawaii,Kali,,Fermantez,1981897,19,good,TEACHER,PROFESSOR,4.0
+Theater,136,Brigham Young University - Hawaii,Craig,,Ferre,1506354,5,good,TEACHER,PROFESSOR,4.3
+Computer Science,136,Brigham Young University - Hawaii,Leslie,,Fife,970408,4,average,TEACHER,PROFESSOR,3.3
+Religion,136,Brigham Young University - Hawaii,Lawrence R.,,Flake,729241,4,poor,TEACHER,PROFESSOR,2.1
+Biology,136,Brigham Young University - Hawaii,Charity,,Fonoimoana,2224359,4,good,TEACHER,PROFESSOR,4.8
+Intercultural Studies,136,Brigham Young University - Hawaii,Chad,,Ford,701729,48,good,TEACHER,PROFESSOR,4.5
+Social Science,136,Brigham Young University - Hawaii,Amanda,,Ford,2552163,3,good,TEACHER,PROFESSOR,4.3
+Health Science,136,Brigham Young University - Hawaii,Nina,,Foster,2196159,3,good,TEACHER,PROFESSOR,4.7
+Psychology,136,Brigham Young University - Hawaii,Inoke,,Funaki,959440,8,good,TEACHER,PROFESSOR,4.1
+Mathematics,136,Brigham Young University - Hawaii,David,,Furuto,408782,19,good,TEACHER,PROFESSOR,3.7
+Mathematics,136,Brigham Young University - Hawaii,Braylee,,Gabel,2645290,1,good,TEACHER,PROFESSOR,5.0
+Social Work,136,Brigham Young University - Hawaii,Kenneth,,Galeai,2262648,2,poor,TEACHER,PROFESSOR,1.0
+Business,136,Brigham Young University - Hawaii,Gregory,,Gibson,1480970,8,good,TEACHER,PROFESSOR,4.8
+Biology,136,Brigham Young University - Hawaii,R. Shane,,Gold,959435,23,good,TEACHER,PROFESSOR,4.7
+Business,136,Brigham Young University - Hawaii,Sanoma,,Goodwill,1097870,11,average,TEACHER,PROFESSOR,2.8
+Biology,136,Brigham Young University - Hawaii,Roger,,Goodwill,1237359,4,good,TEACHER,PROFESSOR,3.5
+Chemistry,136,Brigham Young University - Hawaii,Glen,S,Gray,1919469,1,good,TEACHER,PROFESSOR,5.0
+English,136,Brigham Young University - Hawaii,Brother,,Green,341880,1,good,TEACHER,PROFESSOR,4.0
+English,136,Brigham Young University - Hawaii,Brent,,Green,2657631,3,good,TEACHER,PROFESSOR,4.3
+Chemistry,136,Brigham Young University - Hawaii,Daniel,A,Gubler,1807842,1,good,TEACHER,PROFESSOR,5.0
+Religion,136,Brigham Young University - Hawaii,James,,Hale,2186317,4,good,TEACHER,PROFESSOR,4.0
+English,136,Brigham Young University - Hawaii,Sherman,,Han,1798333,8,average,TEACHER,PROFESSOR,3.0
+English,136,Brigham Young University - Hawaii,Stephen,,Hancock,959429,16,good,TEACHER,PROFESSOR,3.6
+Business,136,Brigham Young University - Hawaii,Helena,,Hannonen,1040354,37,average,TEACHER,PROFESSOR,2.8
+Religion,136,Brigham Young University - Hawaii,Elder,,Hardy,1565976,4,good,TEACHER,PROFESSOR,4.5
+Religion,136,Brigham Young University - Hawaii,Brian,,Hardy,1586715,1,good,TEACHER,PROFESSOR,4.5
+English,136,Brigham Young University - Hawaii,Rebecca,,Haymore,1872286,2,average,TEACHER,PROFESSOR,3.2
+Economics,136,Brigham Young University - Hawaii,.,,Haynes,256605,24,poor,TEACHER,PROFESSOR,1.4
+Business,136,Brigham Young University - Hawaii,Beth,,Haynes,2038867,5,poor,TEACHER,PROFESSOR,2.2
+Chemistry,136,Brigham Young University - Hawaii,Daren,,Heaton,1209097,4,average,TEACHER,PROFESSOR,2.6
+History,136,Brigham Young University - Hawaii,Carol,,Helekunihi,1590755,7,good,TEACHER,PROFESSOR,4.0
+Mathematics,136,Brigham Young University - Hawaii,Joel,,Helms,1836075,15,good,TEACHER,PROFESSOR,4.6
+Religion,136,Brigham Young University - Hawaii,Arvel,,Hemenway,959430,5,good,TEACHER,PROFESSOR,4.9
+Music,136,Brigham Young University - Hawaii,Daniel,,Henderson,2458613,2,good,TEACHER,PROFESSOR,5.0
+Science,136,Brigham Young University - Hawaii,Katie,Elizabeth,Hiew,2383665,2,good,TEACHER,PROFESSOR,3.5
+Social Work,136,Brigham Young University - Hawaii,Andre,,Hippolite,1821963,5,good,TEACHER,PROFESSOR,3.8
+English,136,Brigham Young University - Hawaii,Emily,,Ho,2225240,19,good,TEACHER,PROFESSOR,4.2
+English,136,Brigham Young University - Hawaii,Christina,,Hoffmann,1737521,2,good,TEACHER,PROFESSOR,4.5
+Religion,136,Brigham Young University - Hawaii,Richard,,Holtzapfel,693343,1,good,TEACHER,PROFESSOR,5.0
+Education,136,Brigham Young University - Hawaii,Barbara,,Hong,2242463,5,average,TEACHER,PROFESSOR,3.0
+Art History,136,Brigham Young University - Hawaii,Caryn,,Houghton,2425077,3,good,TEACHER,PROFESSOR,5.0
+Political Science,136,Brigham Young University - Hawaii,Brian,,Houghton,1520034,16,good,TEACHER,PROFESSOR,4.5
+Languages,136,Brigham Young University - Hawaii,Alohalani (April),,Housman,2111837,4,good,TEACHER,PROFESSOR,4.5
+Fine Arts,136,Brigham Young University - Hawaii,Sariah,,Howard,2466145,1,poor,TEACHER,PROFESSOR,2.0
+Business,136,Brigham Young University - Hawaii,Leonard,,Huff,1371539,7,average,TEACHER,PROFESSOR,3.4
+Mathematics,136,Brigham Young University - Hawaii,Brian,,Hung,2106919,3,good,TEACHER,PROFESSOR,4.8
+Languages,136,Brigham Young University - Hawaii,RosaMaria,,Hurst,2685190,1,average,TEACHER,PROFESSOR,3.0
+Mathematics,136,Brigham Young University - Hawaii,Paul,,Hurst,1047571,19,good,TEACHER,PROFESSOR,3.7
+Biology,136,Brigham Young University - Hawaii,Kikiana,,Hurwitz,2329572,2,good,TEACHER,PROFESSOR,5.0
+Biology,136,Brigham Young University - Hawaii,Kiki,,Hurwitz,1833073,14,good,TEACHER,PROFESSOR,4.4
+Mathematics,136,Brigham Young University - Hawaii,Scott,,Hyde,1196750,20,average,TEACHER,PROFESSOR,3.3
+Psychology,136,Brigham Young University - Hawaii,Freddie,,Ika,2169414,10,poor,TEACHER,PROFESSOR,1.5
+Biology,136,Brigham Young University - Hawaii,Spencer,,Ingley,2288478,12,good,TEACHER,PROFESSOR,4.5
+Fine Arts,136,Brigham Young University - Hawaii,Jacob,,Jackson,2443756,3,poor,TEACHER,PROFESSOR,2.3
+Languages,136,Brigham Young University - Hawaii,Mark,,James,1043689,7,good,TEACHER,PROFESSOR,4.0
+Fine Arts,136,Brigham Young University - Hawaii,Jacob,,Jackson,2443756,4,average,TEACHER,PROFESSOR,2.7
+Languages,136,Brigham Young University - Hawaii,Mark,,James,1043689,7,good,TEACHER,PROFESSOR,4.0
+Religion,136,Brigham Young University - Hawaii,Kip,,Jenkins,2414762,2,good,TEACHER,PROFESSOR,5.0
+Education,136,Brigham Young University - Hawaii,Kurt,,Johnson,2172707,2,good,TEACHER,PROFESSOR,5.0
+Mathematics,136,Brigham Young University - Hawaii,Cassandra,,Johnson,584319,12,poor,TEACHER,PROFESSOR,1.8
+Political Science,136,Brigham Young University - Hawaii,Jon,,Jonassen,997369,10,good,TEACHER,PROFESSOR,3.7
+Science,136,Brigham Young University - Hawaii,Benjamin,R,Jordan,1823332,113,good,TEACHER,PROFESSOR,4.6
+Religion,136,Brigham Young University - Hawaii,Brother,,Kaanga,1452768,2,good,TEACHER,PROFESSOR,5.0
+Social Work,136,Brigham Young University - Hawaii,Victor,,Kafusi,2039336,4,good,TEACHER,PROFESSOR,4.8
+Anthropology,136,Brigham Young University - Hawaii,Tevita,,Kaili,1236083,17,good,TEACHER,PROFESSOR,3.9
+Political Science,136,Brigham Young University - Hawaii,Jennifer,,Kajiyama,1859821,8,good,TEACHER,PROFESSOR,4.2
+Languages,136,Brigham Young University - Hawaii,Kats,,Kajiyama,1499236,10,good,TEACHER,PROFESSOR,3.6
+Science,136,Brigham Young University - Hawaii,Kaleo,,Kaluhiokalani,2504625,2,good,TEACHER,PROFESSOR,5.0
+International Studies,136,Brigham Young University - Hawaii,James,,Kester,961379,3,good,TEACHER,PROFESSOR,4.7
+Accounting,136,Brigham Young University - Hawaii,Kevin,,Kimball,767017,12,good,TEACHER,PROFESSOR,4.0
+Psychology,136,Brigham Young University - Hawaii,Edward,,Kinghorn,1462357,8,good,TEACHER,PROFESSOR,4.4
+Psychology,136,Brigham Young University - Hawaii,Brian,,Kinghorn,1870791,7,good,TEACHER,PROFESSOR,3.6
+English,136,Brigham Young University - Hawaii,Keolanani,,Kinghorn,1506349,3,average,TEACHER,PROFESSOR,3.1
+Psychology,136,Brigham Young University - Hawaii,Natalie,,Kirtley,1795673,2,good,TEACHER,PROFESSOR,4.5
+Psychology,136,Brigham Young University - Hawaii,Jess,,Kohlert,2112837,13,good,TEACHER,PROFESSOR,3.7
+Physical Ed,136,Brigham Young University - Hawaii,Joke,,Kokkonen,645818,9,good,TEACHER,PROFESSOR,4.3
+Religion,136,Brigham Young University - Hawaii,Isileli,,Kongaika,1288631,15,poor,TEACHER,PROFESSOR,2.1
+English,136,Brigham Young University - Hawaii,Luana,,Kotobalavu,1755111,4,good,TEACHER,PROFESSOR,3.5
+Social Work,136,Brigham Young University - Hawaii,Christian,,Kunz,2262646,6,good,TEACHER,PROFESSOR,4.8
+Fine Arts,136,Brigham Young University - Hawaii,Jihae,,Kwon,2629447,1,good,TEACHER,PROFESSOR,5.0
+Communication,136,Brigham Young University - Hawaii,Leeann,,Lambert,2265742,1,good,TEACHER,PROFESSOR,5.0
+Religion,136,Brigham Young University - Hawaii,Keith,,Lane,1564511,17,good,TEACHER,PROFESSOR,3.7
+Religion,136,Brigham Young University - Hawaii,Jennifer,,Lane,767008,20,good,TEACHER,PROFESSOR,3.8
+Religion,136,Brigham Young University - Hawaii,Alisi,,Langi,2535706,5,average,TEACHER,PROFESSOR,2.8
+Education,136,Brigham Young University - Hawaii,Karen,,Latham,2331429,1,good,TEACHER,PROFESSOR,5.0
+Accounting,136,Brigham Young University - Hawaii,William,,Lathen,2552273,9,poor,TEACHER,PROFESSOR,1.9
+Information Science,136,Brigham Young University - Hawaii,Jim,,Lee,1273901,5,good,TEACHER,PROFESSOR,3.6
+Computer Science,136,Brigham Young University - Hawaii,James,,Lee,1312100,10,good,TEACHER,PROFESSOR,3.7
+Languages,136,Brigham Young University - Hawaii,Keri ,,Lee,1993305,1,good,TEACHER,PROFESSOR,3.5
+English,136,Brigham Young University - Hawaii,Roberto,Sebastian,Leon,1991236,2,average,TEACHER,PROFESSOR,3.0
+English,136,Brigham Young University - Hawaii,Caryn,,Lesuma,1864108,43,good,TEACHER,PROFESSOR,5.0
+English,136,Brigham Young University - Hawaii,Ariel,,Lovett,1753824,1,good,TEACHER,PROFESSOR,4.5
+English,136,Brigham Young University - Hawaii,Lorraine,,Lucrecio,2381678,2,good,TEACHER,PROFESSOR,5.0
+Chemistry,136,Brigham Young University - Hawaii,Georgi,,Lukov,1489103,5,good,TEACHER,PROFESSOR,3.8
+Physical Ed,136,Brigham Young University - Hawaii,C.,,Lum,557116,7,average,TEACHER,PROFESSOR,3.4
+Business,136,Brigham Young University - Hawaii,Rex,,Madsen,835346,1,good,TEACHER,PROFESSOR,5.0
+Psychology,136,Brigham Young University - Hawaii,Diana,,Mahony,226166,10,average,TEACHER,PROFESSOR,2.7
+English,136,Brigham Young University - Hawaii,Maryann,,Mapu,341883,7,average,TEACHER,PROFESSOR,2.5
+Religion,136,Brigham Young University - Hawaii,Stephanie,,Marcum,2602075,1,good,TEACHER,PROFESSOR,5.0
+Religion,136,Brigham Young University - Hawaii,Jared,,Marcum,2053258,111,good,TEACHER,PROFESSOR,4.4
+English,136,Brigham Young University - Hawaii,Michael,,Marler,837955,12,good,TEACHER,PROFESSOR,4.2
+English,136,Brigham Young University - Hawaii,Myrna,,Marler,959428,10,good,TEACHER,PROFESSOR,4.0
+Religion,136,Brigham Young University - Hawaii,Eric-Jon,,Marlowe,1654056,15,good,TEACHER,PROFESSOR,4.8
+Computer Science,136,Brigham Young University - Hawaii,Justin,,Marshall,2362923,3,poor,TEACHER,PROFESSOR,2.0
+Education,136,Brigham Young University - Hawaii,Francisca,Butac,Marshall,2647969,1,good,TEACHER,PROFESSOR,5.0
+Religion,136,Brigham Young University - Hawaii,Marcus,,Martins,410288,41,good,TEACHER,PROFESSOR,3.9
+Intercultural Studies,136,Brigham Young University - Hawaii,Phillip,,McArthur,1993798,1,good,TEACHER,PROFESSOR,4.0
+Anthropology,136,Brigham Young University - Hawaii,Phillip,,McArthur,443836,13,good,TEACHER,PROFESSOR,4.8
+Languages,136,Brigham Young University - Hawaii,Elaine,,McArthur,959441,19,good,TEACHER,PROFESSOR,4.7
+Health Science,136,Brigham Young University - Hawaii,thomas,,mcbride,2435490,2,good,TEACHER,PROFESSOR,5.0
+Intercultural Studies,136,Brigham Young University - Hawaii,Phillip,,McArthur,1993798,1,good,TEACHER,PROFESSOR,4.0
+Anthropology,136,Brigham Young University - Hawaii,Phillip,,McArthur,443836,13,good,TEACHER,PROFESSOR,4.8
+Languages,136,Brigham Young University - Hawaii,Elaine,,McArthur,959441,22,good,TEACHER,PROFESSOR,4.7
+Health Science,136,Brigham Young University - Hawaii,Tara,,McBride,2435487,1,good,TEACHER,PROFESSOR,5.0
+Health Science,136,Brigham Young University - Hawaii,thomas,,mcbride,2435490,3,good,TEACHER,PROFESSOR,4.7
+History,136,Brigham Young University - Hawaii,Richard,,McBride,1607645,15,good,TEACHER,PROFESSOR,3.8
+Music,136,Brigham Young University - Hawaii,Scott,,McCarrey,1010078,3,good,TEACHER,PROFESSOR,5.0
+Music,136,Brigham Young University - Hawaii,Stacy,,McCarrey ,2000954,1,good,TEACHER,PROFESSOR,5.0
+Religion,136,Brigham Young University - Hawaii,Roger,,McCarty,2653944,1,poor,TEACHER,PROFESSOR,1.0
+Religion,136,Brigham Young University - Hawaii,Marsha,,McCarty,2653946,1,poor,TEACHER,PROFESSOR,1.0
+Design,136,Brigham Young University - Hawaii,Anna,,McConnell,2352188,3,poor,TEACHER,PROFESSOR,2.0
+Social Work,136,Brigham Young University - Hawaii,Martin,,McDonell,1782657,3,good,TEACHER,PROFESSOR,4.8
+Mathematics,136,Brigham Young University - Hawaii,Steven,,McKay,730578,2,good,TEACHER,PROFESSOR,3.5
+Health Science,136,Brigham Young University - Hawaii,Kate,,McLellan,2408077,251,good,TEACHER,PROFESSOR,4.9
+Mathematics,136,Brigham Young University - Hawaii,Elaine,,Merril,955818,10,poor,TEACHER,PROFESSOR,2.0
+Religion,136,Brigham Young University - Hawaii,Byron,,Merrill,689384,2,good,TEACHER,PROFESSOR,5.0
+Fine Arts,136,Brigham Young University - Hawaii,Jeff,,Merrill,1753377,3,good,TEACHER,PROFESSOR,4.3
+Art History,136,Brigham Young University - Hawaii,Anna,,Merrill,2629448,4,good,TEACHER,PROFESSOR,4.8
+Graphic Arts,136,Brigham Young University - Hawaii,Jay,,Merryweather,1842773,2,good,TEACHER,PROFESSOR,4.8
+Religion,136,Brigham Young University - Hawaii,Peter,,Meyers,2741650,1,good,TEACHER,PROFESSOR,5.0
+Religion,136,Brigham Young University - Hawaii,Brian,,Mickelson,2023069,1,good,TEACHER,PROFESSOR,5.0
+English,136,Brigham Young University - Hawaii,Karen,,Miller,1619803,2,poor,TEACHER,PROFESSOR,1.5
+Intercultural Studies,136,Brigham Young University - Hawaii,Shemaina,Jory,Miller,2419764,1,good,TEACHER,PROFESSOR,5.0
+Psychology,136,Brigham Young University - Hawaii,Ronald,,Miller,747253,26,good,TEACHER,PROFESSOR,4.3
+Business,136,Brigham Young University - Hawaii,Reid,,Millerberg,2700996,1,good,TEACHER,PROFESSOR,5.0
+Design,136,Brigham Young University - Hawaii,Abish,,Moncur,2772828,1,good,TEACHER,PROFESSOR,4.0
+English,136,Brigham Young University - Hawaii,Marianne,,Monson,2678886,1,poor,TEACHER,PROFESSOR,2.0
+Mathematics,136,Brigham Young University - Hawaii,Wilford,,Mueller,2333937,1,poor,TEACHER,PROFESSOR,1.0
+Religion,136,Brigham Young University - Hawaii,Kerry,,Muhlstein,823883,6,good,TEACHER,PROFESSOR,4.7
+English,136,Brigham Young University - Hawaii,Mari,,Murdock,2031462,6,average,TEACHER,PROFESSOR,3.0
+History,136,Brigham Young University - Hawaii,Michael,,Murdock,1176425,33,good,TEACHER,PROFESSOR,4.4
+English,136,Brigham Young University - Hawaii,Kit,,Nadado,2033886,21,good,TEACHER,PROFESSOR,4.9
+Religion,136,Brigham Young University - Hawaii,John,,Naegle,2121345,4,good,TEACHER,PROFESSOR,4.8
+English,136,Brigham Young University - Hawaii,Megan,,Naihe,1884895,13,good,TEACHER,PROFESSOR,4.9
+Health Science,136,Brigham Young University - Hawaii,Evan,,Nakachi,2152909,4,poor,TEACHER,PROFESSOR,2.0
+Physics,136,Brigham Young University - Hawaii,Michael,,Nakata,1555245,6,poor,TEACHER,PROFESSOR,2.1
+Science,136,Brigham Young University - Hawaii,Jason,,Neff,2108062,1,good,TEACHER,PROFESSOR,5.0
+Accounting,136,Brigham Young University - Hawaii,Joseph,,Nemrow,1407275,8,average,TEACHER,PROFESSOR,3.3
+Business,136,Brigham Young University - Hawaii,Benjamin,,Neve,2004483,4,good,TEACHER,PROFESSOR,4.0
+Business,136,Brigham Young University - Hawaii,Donald,,Nielsen,2060958,5,good,TEACHER,PROFESSOR,3.8
+Mathematics,136,Brigham Young University - Hawaii,Sister,,Oleole,764186,24,poor,TEACHER,PROFESSOR,1.6
+Mathematics,136,Brigham Young University - Hawaii,Elissa,,Oleole,2621038,3,poor,TEACHER,PROFESSOR,2.0
+Religion,136,Brigham Young University - Hawaii,Craig,,Olson,1488806,1,good,TEACHER,PROFESSOR,4.0
+Music,136,Brigham Young University - Hawaii,Dennise,,Ontiveros,1643796,1,good,TEACHER,PROFESSOR,5.0
+Psychology,136,Brigham Young University - Hawaii,Eric,,Orr,852853,14,good,TEACHER,PROFESSOR,4.0
+Religion,136,Brigham Young University - Hawaii,Craig J.,,Ostler,729242,2,good,TEACHER,PROFESSOR,3.5
+Music,136,Brigham Young University - Hawaii,Jerold,,Ottley,959431,1,good,TEACHER,PROFESSOR,5.0
+Information Systems,136,Brigham Young University - Hawaii,Edna,,Owan,775435,4,average,TEACHER,PROFESSOR,2.9
+English,136,Brigham Young University - Hawaii,Patricia,,Patrick,1488804,14,good,TEACHER,PROFESSOR,4.4
+English,136,Brigham Young University - Hawaii,Scott,,Patrick,2186313,4,good,TEACHER,PROFESSOR,5.0
+Intercultural Studies,136,Brigham Young University - Hawaii,Zachary,,Payne,2263237,14,good,TEACHER,PROFESSOR,4.6
+Physical Education,136,Brigham Young University - Hawaii,Jared,,Pere,2115557,2,good,TEACHER,PROFESSOR,5.0
+English,136,Brigham Young University - Hawaii,Keith,,Peterson,1608514,10,good,TEACHER,PROFESSOR,3.5
+Business,136,Brigham Young University - Hawaii,Ban,,Phung,1320399,14,good,TEACHER,PROFESSOR,4.4
+English,136,Brigham Young University - Hawaii,Lupe,,Piena,959439,6,average,TEACHER,PROFESSOR,3.2
+English,136,Brigham Young University - Hawaii,Joseph,,Plicka,1930615,17,good,TEACHER,PROFESSOR,4.0
+English,136,Brigham Young University - Hawaii,Emily,,Plicka,1934792,10,good,TEACHER,PROFESSOR,4.6
+Science,136,Brigham Young University - Hawaii,David,,Porter,929171,23,good,TEACHER,PROFESSOR,4.4
+Business,136,Brigham Young University - Hawaii,David,,Preece,2106893,2,good,TEACHER,PROFESSOR,4.8
+Marketing,136,Brigham Young University - Hawaii,David,,Preece,1531499,7,good,TEACHER,PROFESSOR,4.7
+Education,136,Brigham Young University - Hawaii,Eric,,Rackley,1772607,11,good,TEACHER,PROFESSOR,4.5
+Religion,136,Brigham Young University - Hawaii,Ula,,Rama,959433,5,good,TEACHER,PROFESSOR,4.5
+Languages,136,Brigham Young University - Hawaii,Paul,,Rama,1849288,4,good,TEACHER,PROFESSOR,4.9
+Accounting,136,Brigham Young University - Hawaii,Elizabeth,,Ramsay,2628390,2,good,TEACHER,PROFESSOR,5.0
+Social Work,136,Brigham Young University - Hawaii,Jordan,,Rascon,2585342,1,poor,TEACHER,PROFESSOR,2.0
+Health Science,136,Brigham Young University - Hawaii,Joel,,Reece,2151472,12,average,TEACHER,PROFESSOR,3.1
+Languages,136,Brigham Young University - Hawaii,Rowenna,,Reid,2235712,3,good,TEACHER,PROFESSOR,5.0
+Psychology,136,Brigham Young University - Hawaii,Rowena,,Reid,2345617,4,average,TEACHER,PROFESSOR,3.0
+Humanities,136,Brigham Young University - Hawaii,Timothy,,Richardson,994172,13,good,TEACHER,PROFESSOR,4.2
+Religion,136,Brigham Young University - Hawaii,Myron,,Richins,1168689,3,good,TEACHER,PROFESSOR,4.8
+Business,136,Brigham Young University - Hawaii,James,,Ritchie,1476658,1,good,TEACHER,PROFESSOR,5.0
+Social Work,136,Brigham Young University - Hawaii,Thomas,,Robertson,2348477,3,good,TEACHER,PROFESSOR,4.7
+English,136,Brigham Young University - Hawaii,Stephanie,,Robertson,1564575,21,good,TEACHER,PROFESSOR,4.7
+Communication,136,Brigham Young University - Hawaii,Tom,,Robinson,717676,12,average,TEACHER,PROFESSOR,3.0
+Business,136,Brigham Young University - Hawaii,PJ,,Rogers,1925873,18,good,TEACHER,PROFESSOR,4.3
+Economics,136,Brigham Young University - Hawaii,Katoa,,Sailusi,2489358,1,poor,TEACHER,PROFESSOR,2.0
+Biology,136,Brigham Young University - Hawaii,Esprit,,Saucier,2412910,7,good,TEACHER,PROFESSOR,3.5
+English,136,Brigham Young University - Hawaii,Stephanie,,Robertson,1564575,22,good,TEACHER,PROFESSOR,4.5
+Communication,136,Brigham Young University - Hawaii,Tom,,Robinson,717676,15,average,TEACHER,PROFESSOR,3.3
+Business,136,Brigham Young University - Hawaii,PJ,,Rogers,1925873,20,good,TEACHER,PROFESSOR,4.2
+Economics,136,Brigham Young University - Hawaii,Katoa,,Sailusi,2489358,1,poor,TEACHER,PROFESSOR,2.0
+Biology,136,Brigham Young University - Hawaii,Esprit,,Saucier,2412910,7,good,TEACHER,PROFESSOR,3.5
+Accounting,136,Brigham Young University - Hawaii,Tialei,,Scanlan,2358878,5,good,TEACHER,PROFESSOR,4.0
+Psychology,136,Brigham Young University - Hawaii,Spencer,,Scanlan,2472169,3,good,TEACHER,PROFESSOR,5.0
+Biology,136,Brigham Young University - Hawaii,Karla,,Schade,1196391,2,good,TEACHER,PROFESSOR,4.8
+Religion,136,Brigham Young University - Hawaii,Aaron,,Schade,1240488,11,good,TEACHER,PROFESSOR,4.2
+Hospitality,136,Brigham Young University - Hawaii,Normand,,Schafer,2499744,37,good,TEACHER,PROFESSOR,4.3
+English,136,Brigham Young University - Hawaii,Britta,,Schnebly,2544099,1,poor,TEACHER,PROFESSOR,2.0
+English,136,Brigham Young University - Hawaii,Larissa,,Schumann,810411,4,good,TEACHER,PROFESSOR,3.5
+Chemistry,136,Brigham Young University - Hawaii,Daniel,,Scott,1259826,43,average,TEACHER,PROFESSOR,3.0
+English,136,Brigham Young University - Hawaii,Carolyn,,Sharp,1975312,17,good,TEACHER,PROFESSOR,4.0
+Religion,136,Brigham Young University - Hawaii,Dan,,Sharp,1624503,27,good,TEACHER,PROFESSOR,4.6
+Mathematics,136,Brigham Young University - Hawaii,Joyce,,Smart,2645777,1,good,TEACHER,PROFESSOR,4.0
+Physical Ed,136,Brigham Young University - Hawaii,Kyndra,,Smith,331838,2,good,TEACHER,PROFESSOR,4.5
+Political Science,136,Brigham Young University - Hawaii,Troy,,Smith,1210881,24,good,TEACHER,PROFESSOR,4.5
+Information Systems,136,Brigham Young University - Hawaii,Joshua,,Smith,1622773,12,good,TEACHER,PROFESSOR,3.5
+Social Work,136,Brigham Young University - Hawaii,Rejieli,,Smith,2608248,1,good,TEACHER,PROFESSOR,5.0
+English,136,Brigham Young University - Hawaii,Tanya,,Smith,2657215,1,good,TEACHER,PROFESSOR,5.0
+Mathematics,136,Brigham Young University - Hawaii,Diane,,Smith,2333934,6,good,TEACHER,PROFESSOR,5.0
+Biology,136,Brigham Young University - Hawaii,Brad,,Smith,2038733,12,average,TEACHER,PROFESSOR,3.1
+English,136,Brigham Young University - Hawaii,Shawnee,,Smith,2050762,1,good,TEACHER,PROFESSOR,5.0
+Accounting,136,Brigham Young University - Hawaii,Abel,,Soares III,2660885,3,poor,TEACHER,PROFESSOR,2.0
+English,136,Brigham Young University - Hawaii,Leola,,Solis,1487487,2,good,TEACHER,PROFESSOR,4.0
+Business,136,Brigham Young University - Hawaii,Devin,,Sorensen,2388278,2,average,TEACHER,PROFESSOR,3.0
+Humanities,136,Brigham Young University - Hawaii,Colleen,,Spring,546981,3,good,TEACHER,PROFESSOR,3.8
+Business,136,Brigham Young University - Hawaii,Scott,,Springer,2183628,8,good,TEACHER,PROFESSOR,4.9
+Business,136,Brigham Young University - Hawaii,Ann,,Springer,2366553,7,poor,TEACHER,PROFESSOR,2.3
+English,136,Brigham Young University - Hawaii,Jon,,Stansell,1196139,10,average,TEACHER,PROFESSOR,3.2
+English,136,Brigham Young University - Hawaii,Brittany,,Steed,2590946,1,poor,TEACHER,PROFESSOR,2.0
+English,136,Brigham Young University - Hawaii,Leola,,Solis,1487487,2,good,TEACHER,PROFESSOR,4.0
+Business,136,Brigham Young University - Hawaii,Devin,,Sorensen,2388278,2,average,TEACHER,PROFESSOR,3.0
+Humanities,136,Brigham Young University - Hawaii,Colleen,,Spring,546981,3,good,TEACHER,PROFESSOR,3.8
+Business,136,Brigham Young University - Hawaii,Scott,,Springer,2183628,8,good,TEACHER,PROFESSOR,4.9
+Business,136,Brigham Young University - Hawaii,Ann,,Springer,2366553,18,good,TEACHER,PROFESSOR,3.8
+English,136,Brigham Young University - Hawaii,Jon,,Stansell,1196139,10,average,TEACHER,PROFESSOR,3.2
+English,136,Brigham Young University - Hawaii,Brittany,,Steed,2590946,1,poor,TEACHER,PROFESSOR,2.0
+Religion,136,Brigham Young University - Hawaii,Eric,,Stephan,974088,3,good,TEACHER,PROFESSOR,4.0
+Religion,136,Brigham Young University - Hawaii,Jonathan,,Stephenson,2441272,3,good,TEACHER,PROFESSOR,4.0
+Chemistry,136,Brigham Young University - Hawaii,Wood,,Steven,714795,2,good,TEACHER,PROFESSOR,4.5
+International Studies,136,Brigham Young University - Hawaii,James,,Stiefvater,2333914,4,good,TEACHER,PROFESSOR,4.3
+Business,136,Brigham Young University - Hawaii,Scott,,Stiles,2052954,2,good,TEACHER,PROFESSOR,3.8
+Communication,136,Brigham Young University - Hawaii,Daniel ,,Stout,1996594,7,good,TEACHER,PROFESSOR,4.0
+History,136,Brigham Young University - Hawaii,Rebekah,,Strain,2229757,3,good,TEACHER,PROFESSOR,4.7
+Religion,136,Brigham Young University - Hawaii,Rebekah,Kay,Strain,2661900,1,good,TEACHER,PROFESSOR,4.0
+Information Systems,136,Brigham Young University - Hawaii,Jeff,,Strain,2453153,2,poor,TEACHER,PROFESSOR,1.0
+Marketing,136,Brigham Young University - Hawaii,Tserennyam,,Sukhbaatar,2764702,1,good,TEACHER,PROFESSOR,5.0
+Business,136,Brigham Young University - Hawaii,Spencer,,Taggart,2522643,6,good,TEACHER,PROFESSOR,4.2
+Mathematics,136,Brigham Young University - Hawaii,Vanessa,Justine,Tandiman,2503651,2,good,TEACHER,PROFESSOR,5.0
+Intercultural Studies,136,Brigham Young University - Hawaii,Amanda,,Tice,2164842,1,good,TEACHER,PROFESSOR,5.0
+English,136,Brigham Young University - Hawaii,Kandi,,Timothy,2061424,3,poor,TEACHER,PROFESSOR,2.3
+Psychology,136,Brigham Young University - Hawaii,Boyd,,Timothy,1480010,23,good,TEACHER,PROFESSOR,4.0
+Fine Arts,136,Brigham Young University - Hawaii,Asipeli,,Toluta'u,2356853,4,poor,TEACHER,PROFESSOR,2.0
+Languages,136,Brigham Young University - Hawaii,Shirley,,Tovey,1993280,3,good,TEACHER,PROFESSOR,4.8
+Graphic Arts,136,Brigham Young University - Hawaii,Brandon,,Truscott,1613520,4,good,TEACHER,PROFESSOR,4.1
+Political Science,136,Brigham Young University - Hawaii,John,,Tsukayama,1996737,16,good,TEACHER,PROFESSOR,4.1
+History,136,Brigham Young University - Hawaii,James,,Tueller,410283,21,good,TEACHER,PROFESSOR,4.0
+Physical Education,136,Brigham Young University - Hawaii,Marietta,,Tuionetoa,2149784,2,good,TEACHER,PROFESSOR,3.5
+English,136,Brigham Young University - Hawaii,Amanda,,Vela,1870788,1,average,TEACHER,PROFESSOR,3.0
+Economics,136,Brigham Young University - Hawaii,Ricardo,,Vicente,2285732,2,average,TEACHER,PROFESSOR,2.5
+Accounting,136,Brigham Young University - Hawaii,David,,Waite,1925147,94,good,TEACHER,PROFESSOR,5.0
+Ethnic Studies,136,Brigham Young University - Hawaii,Kamoa'e,,Walk,1564509,4,average,TEACHER,PROFESSOR,3.3
+Anthropology,136,Brigham Young University - Hawaii,Rebekah,,Walker,1954131,14,average,TEACHER,PROFESSOR,2.6
+History,136,Brigham Young University - Hawaii,Isaiah,,Walker,1373109,16,good,TEACHER,PROFESSOR,3.8
+Ethnic Studies,136,Brigham Young University - Hawaii,Uncle Bill,,Wallace,959443,1,good,TEACHER,PROFESSOR,4.5
+English,136,Brigham Young University - Hawaii,Amanda,,Wallace,2499412,2,average,TEACHER,PROFESSOR,3.0
+Business,136,Brigham Young University - Hawaii,Cary,,Wasden,1388147,24,average,TEACHER,PROFESSOR,3.5
+Accounting,136,Brigham Young University - Hawaii,Brian,,Watkins,2181492,5,good,TEACHER,PROFESSOR,4.6
+Accounting,136,Brigham Young University - Hawaii,James,,Watkins,1738858,13,average,TEACHER,PROFESSOR,3.3
+Education,136,Brigham Young University - Hawaii,Aileen,,Watts,1565690,1,poor,TEACHER,PROFESSOR,1.5
+Education,136,Brigham Young University - Hawaii,Aleen,,Watts,1569305,1,poor,TEACHER,PROFESSOR,1.0
+Physics,136,Brigham Young University - Hawaii,Michael,,Weber,959438,16,good,TEACHER,PROFESSOR,3.9
+English,136,Brigham Young University - Hawaii,Zebulun,,Weeks,1622720,11,average,TEACHER,PROFESSOR,2.9
+Biology,136,Brigham Young University - Hawaii,Colby,,Weeks,1635953,40,average,TEACHER,PROFESSOR,3.0
+History,136,Brigham Young University - Hawaii,Hiagi,,Wesley,2533394,1,poor,TEACHER,PROFESSOR,1.0
+Intercultural Studies,136,Brigham Young University - Hawaii,David,,Whippy,2165555,9,good,TEACHER,PROFESSOR,4.9
+Accounting,136,Brigham Young University - Hawaii,Brent,,White,2233076,8,good,TEACHER,PROFESSOR,4.5
+Education,136,Brigham Young University - Hawaii,Ammon,,Wilcken,2174433,9,good,TEACHER,PROFESSOR,4.6
+English,136,Brigham Young University - Hawaii,Ned,,Williams,959432,17,average,TEACHER,PROFESSOR,3.4
+Economics,136,Brigham Young University - Hawaii,Ron,,Williams,2619620,1,good,TEACHER,PROFESSOR,5.0
+Physical Education,136,Brigham Young University - Hawaii,Melissa,,Wilson,1484372,7,good,TEACHER,PROFESSOR,4.9
+Religion,136,Brigham Young University - Hawaii,Jerry,,Wilson,1499230,3,good,TEACHER,PROFESSOR,5.0
+Marketing,136,Brigham Young University - Hawaii,Paul,L,Wilson,2660951,1,good,TEACHER,PROFESSOR,5.0
+Business,136,Brigham Young University - Hawaii,Paul,,Wilson,2335065,3,good,TEACHER,PROFESSOR,4.3
+Education,136,Brigham Young University - Hawaii,Roy,,Winstead,959434,3,good,TEACHER,PROFESSOR,4.5
+Biology,136,Brigham Young University - Hawaii,Ingrid,,Wiscombe,2149790,4,poor,TEACHER,PROFESSOR,2.2
+English,136,Brigham Young University - Hawaii,Rebecca,,Wolfersberger,1473901,2,good,TEACHER,PROFESSOR,3.5
+English,136,Brigham Young University - Hawaii,Mark,,Wolfersberger,2114704,3,good,TEACHER,PROFESSOR,3.7
+Information Systems,136,Brigham Young University - Hawaii,Stuart,,Wolthuis,1711693,4,good,TEACHER,PROFESSOR,4.7
+Mathematics,136,Brigham Young University - Hawaii,Ka,Lun,Wong,2333932,5,good,TEACHER,PROFESSOR,3.8
+Languages,136,Brigham Young University - Hawaii,Earl,,Wyman,1567256,6,good,TEACHER,PROFESSOR,3.7
+Communication,136,Brigham Young University - Hawaii,Brent,,Yergensen,2353823,10,good,TEACHER,PROFESSOR,3.8
+English,136,Brigham Young University - Hawaii,Mark,,Wolfersberger,2114704,3,good,TEACHER,PROFESSOR,3.7
+Information Systems,136,Brigham Young University - Hawaii,Stuart,,Wolthuis,1711693,4,good,TEACHER,PROFESSOR,4.7
+Mathematics,136,Brigham Young University - Hawaii,Ka,Lun,Wong,2333932,5,good,TEACHER,PROFESSOR,3.8
+Languages,136,Brigham Young University - Hawaii,Earl,,Wyman,1567256,6,good,TEACHER,PROFESSOR,3.7
+Communication,136,Brigham Young University - Hawaii,Brent,,Yergensen,2353823,10,good,TEACHER,PROFESSOR,3.8
